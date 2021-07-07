@@ -4,7 +4,7 @@
   1. python 3.7 and above 
   2. python modules of pandas, numpy, tkinter, queues and threading
   
-  -(installing python IDLE with support to latest python version should be enough for point (a) )
+  -(installing python IDLE with support to latest python version should be enough for point (1) )
 
 
 # process of installation:
