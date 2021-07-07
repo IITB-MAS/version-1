@@ -1,4 +1,4 @@
-# about the project
+# About the software
 Multi agent system for smart manufacturing applications is a project under development by a team of students and professors at Indian institute of Technology, Bombay.
 
 # version-1
