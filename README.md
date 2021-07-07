@@ -3,7 +3,8 @@ This Multi agent system is a project under development by students at Indian ins
 under the guidance and supervision of Prof. Makarand S Kulkarni and Prof. Asim Tewari. 
 
 # instrutions:
+refer the following files for 
 
-installation process--> installation.md
+1. installation process--> installation_procedure.md
 
 
