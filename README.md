@@ -8,9 +8,9 @@ under the guidance and supervision of Prof. Makarand S Kulkarni and Prof. Asim T
 # instrutions of use for version-1:
 Refer the following files for 
 
-1. project documentation ---> documentations folder
-2. installation process--> installation_procedure.md
-3. running the agent based system --> run procedure.pdf
+1. installation process--> installation_procedure.md
+2. running the agent based system --> run procedure.pdf
+3. project documentation ---> documentations folder
 
 
 
